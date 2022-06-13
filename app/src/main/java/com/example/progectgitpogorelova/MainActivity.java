@@ -8,7 +8,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);//коммит3 для мэйн
-        setContentView(R.layout.activity_main);//коммит2 для мэйн
-    }
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+    }//оъединение
 }
